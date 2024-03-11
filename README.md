@@ -20,7 +20,7 @@ This repository contains a Streamlit application that extracts form data from up
 ## Installation
 
 1. Clone the repository:
-git clone https://github.com/your-username/form-data-extractor.git
+git clone https://github.com/your-username/ocr-htr.git
 
 
 Copy code
