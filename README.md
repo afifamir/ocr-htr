@@ -3,6 +3,9 @@
 # Form Data Extractor
 
 This repository contains a Streamlit application that extracts form data from uploaded images using Optical Character Recognition (OCR) with Tesseract. The extracted data is displayed in the application, and users can save it to a SQLite database and a JSON file.
+![Screenshot 2024-03-12 at 9 08 54 AM](https://github.com/afifamir/ocr-htr/assets/14154490/c59d2adf-2b80-47cb-95ba-3881f471a756)
+![Screenshot 2024-03-12 at 9 09 10 AM](https://github.com/afifamir/ocr-htr/assets/14154490/ffc88128-486d-46a0-a360-d5ebc2e3467d)
+
 
 ## Features
 
