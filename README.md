@@ -26,19 +26,13 @@ This repository contains a Streamlit application that extracts form data from up
 git clone https://github.com/your-username/ocr-htr.git
 
 
-Copy code
 
 2. Navigate to the project directory:
 cd form-data-extractor
 
 
-Copy code
-
 3. Install the required packages:
 pip install -r requirements.txt
-
-
-Copy code
 
 4. Install Tesseract OCR engine:
 
@@ -53,8 +47,6 @@ Copy code
 1. Run the Streamlit application:
 streamlit run app.py
 
-
-Copy code
 
 2. The application will open in your default web browser.
 
